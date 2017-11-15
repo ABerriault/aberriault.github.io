@@ -8,6 +8,8 @@
       		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
      		<script type="text/javascript" src="js/materialize.min.js"></script>
 		
+		{% include header.html %}
+		
 		{% include nav.html %}
 		
 		<div class="container">
@@ -15,11 +17,7 @@
 		{{ content }}
 			
 		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:andrewberriault@gmail.com">email</a></li>
-        		<li><a href="https://github.com/aberriault">github.com/aberriault</a></li>
-			</ul>
-		</footer>
+		
+		{% include footer.html %}
 	</body>
 </html>
