@@ -1,8 +1,4 @@
 # AndrewBerriault.com
->**Project Name:** _Personal Website_
->**Date Started:** _December 22, 2017_
->**Date Launched:** _January 1, 2018_
->**Contributors:** _[@ABerriault](https://github.com/ABerriault)_
 
 ![screenshot](https://raw.githubusercontent.com/ABerriault/aberriault.github.io/development/img/screenshot.png)
 
@@ -21,7 +17,14 @@ You can use the [editor on GitHub](https://github.com/ABerriault/aberriault.gith
 
 Having trouble with this project? Check out our [documentation](https://github.com/ABerriault/aberriault.github.io/wiki) or [contact support](mailto:AndrewBerriault@gmail.com) and we’ll help you sort it out.
 
-## License
+## Metadata
+
+**Project Name:** _Personal Website_
+
+**Date Started:** _December 22, 2017_
+
+**Date Launched:** _January 1, 2018_
+
+**Contributors:** _[@ABerriault](https://github.com/ABerriault)_
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-MIT
