@@ -23,4 +23,5 @@ Having trouble with this project? Check out our [documentation](https://github.c
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 MIT
