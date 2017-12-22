@@ -7,7 +7,7 @@
 
 **Contributors:** _[@ABerriault](https://github.com/ABerriault)_
 
-![screenshot](https://raw.githubusercontent.com/aberriault/aberriault.github.io/development/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/ABerriault/aberriault.github.io/development/img/screenshot.png)
 
 
 ## Andrew Berriault
