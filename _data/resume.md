@@ -1,10 +1,3 @@
----
-layout: default
-title: About
----
-
-# My Story
-A bunch of information about who I am and such. This will be probably a little bit longer with a image off to the side perhaps. Extra sentences about who I am and what I do will go here. Ignore the repeated sentences, they are in place to view the structure. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will now repeat. This line will no longer repeat.
 
 ## Resume
 ## Andrew Berriault
