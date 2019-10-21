@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    {% include head.html %}
+    <body class="bg-dark text-light m-3 p-3">
+        <div class="container-fluid">
+        {% include navbar.html %}
+
+        {{ content }}
+
+        {% include footer.html %}
+        </div>
+    </body>
+    {% include scripts.html %}
+</html>
