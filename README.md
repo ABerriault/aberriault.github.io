@@ -1,7 +1,7 @@
 # Start Server
 bundle exec jekyll serve
 ## Start Server with Live Reload
-bundle exec jekyll serve -l
+bundle exec jekyll serve --incremental
 
 # Build
 bundle exec jekyll build
