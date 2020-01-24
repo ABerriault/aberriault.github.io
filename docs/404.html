@@ -8,7 +8,8 @@
     <!-- Custom CSS -->
     <link href="../assets/css/main.css" rel="stylesheet">
     <link href="../assets/css/sticky-footer.css" rel="stylesheet">
-
+    <link href="../assets/css/darkmode.css" rel="stylesheet">
+    
     <!-- Font Links -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,500|Raleway:100,200,700&display=swap" rel="stylesheet">
     
@@ -26,13 +27,13 @@
     </script>
 
   </head>
-    <body class="bg-dark text-light m-3 p-3">
+    <body class="bg-dark text-light">
         <div class="container-fluid">
-        <nav>
-    <a href="/" class="text-light float-left"><h1 class="">Andrew K Berriault</h1></a>
-    <ul  class="nav justify-content-end text-primary" style="font-size: 2em;">
+        <nav class="d-flex justify-content-around align-items-center border-bottom border-light">
+    <a href="/" class="text-light float-left" style="text-decoration: none;"><h1 class="">Andrew K Berriault</h1></a>
+    <ul  class="nav align-items-middle text-primary">
         <li class="nav-item">
-        <a class="nav-link" href="/about">About</a>
+        <a class="nav-link" href="/about">Resume</a>
         </li>
         <li class="nav-item">
         <a class="nav-link" href="https://github.com/aberriault">Projects</a>
@@ -41,10 +42,10 @@
         <a class="nav-link" href="mailto:berriaak@mcmaster.ca">Contact</a>
         </li>
     </ul>
-    <hr class="border-dark-muted">
 </nav>
 
-        <style type="text/css" media="screen">
+        <div class="p-3">
+            <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
     max-width: 600px;
@@ -65,9 +66,10 @@
   <p>The requested page could not be found.</p>
 </div>
 
+        </div>
 
-        <footer class="sticky-footer text-center bg-dark-muted">
-    <div class="row justify-content-center py-2">
+        <footer class="sticky-footer text-center bg-dark border-top  border-light">
+    <div class="row justify-content-center my-3">
         <!--Linkedin -->
         <a class="li-ic text-light" href="http://linkedin.com/in/aberriault">
         <i class="fab fa-linkedin-in fa-lg mr-md-5 mr-3 fa-2x"> </i>
@@ -91,7 +93,7 @@
 
     <div class="row justify-content-center py-2">
     <!-- Copyright -->
-        <small><a href="https://berriault.com" class="text-dark">Andrew Berriault © 2019</a></small>
+        <small><a href="https://berriault.com" class="text-light">Andrew Berriault © 2019</a></small>
     <!-- Copyright -->
     </div>
 </footer>
