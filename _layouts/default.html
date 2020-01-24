@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+    {% include head.html %}
+    <body class="bg-dark text-light">
+        <div class="container-fluid">
+        {% include navbar.html %}
+
+        <div class="p-3">
+            {{ content  }}
+        </div>
+
+        {% include footer.html %}
+        </div>
+    </body>
+    {% include scripts.html %}
+</html>

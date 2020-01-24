@@ -1,0 +1,27 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+$theme-colors: (
+  "primary": #960209,
+  "primary-muted": #993333,
+  "secondary": #009966,
+  "secondary-muted": #339966,
+  "success": #339966,
+  "info": #009999 ,
+  "warning": #bb6600 ,
+  "danger": #993333 ,
+  "light": #ccc ,
+  "dark": #111,
+  "dark-muted": #444,
+);
+
+// Your variable overrides
+$font-family-base:            'Raleway', sans-serif;
+$font-weight-light:           100 ;
+$font-weight-normal:          200 ;
+
+$headings-font-family:        'Montserrat', sans-serif;
+
+$enable-gradients: true;
+
+@import "../bootstrap-4.3.1/assets/stylesheets/bootstrap";
