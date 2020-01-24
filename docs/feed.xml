@@ -1,219 +1,294 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-24T12:24:27-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Andrew K Berriault</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">The Daily Log - Jan 17, 2020</title><link href="http://localhost:4000/blog/tdl/2020/01/17/The-Daily-Log.html" rel="alternate" type="text/html" title="The Daily Log - Jan 17, 2020" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://localhost:4000/blog/tdl/2020/01/17/The-Daily-Log</id><content type="html" xml:base="http://localhost:4000/blog/tdl/2020/01/17/The-Daily-Log.html"># The Daily Log
-###### Jan 17, 2020
----
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://berriault.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://berriault.com/" rel="alternate" type="text/html" /><updated>2020-01-24T17:14:34-05:00</updated><id>http://berriault.com/feed.xml</id><title type="html">Andrew K Berriault</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">The Daily Log - Jan 17, 2020</title><link href="http://berriault.com/blog/tdl/2020/01/17/The-Daily-Log.html" rel="alternate" type="text/html" title="The Daily Log - Jan 17, 2020" /><published>2020-01-17T00:00:00-05:00</published><updated>2020-01-17T00:00:00-05:00</updated><id>http://berriault.com/blog/tdl/2020/01/17/The-Daily-Log</id><content type="html" xml:base="http://berriault.com/blog/tdl/2020/01/17/The-Daily-Log.html">&lt;h1 id=&quot;the-daily-log&quot;&gt;The Daily Log&lt;/h1&gt;
+&lt;h6 id=&quot;jan-17-2020&quot;&gt;Jan 17, 2020&lt;/h6&gt;
+&lt;hr /&gt;
 
-## Today's Tasks
-- [ ] 10 Pushups
-- [ ] Write Something
-- [ ] CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)
-- [ ] Landry: Clothing
+&lt;h2 id=&quot;todays-tasks&quot;&gt;Today’s Tasks&lt;/h2&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;10 Pushups&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Write Something&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Landry: Clothing&lt;/li&gt;
+&lt;/ul&gt;
 
-## *Notes*
+&lt;h2 id=&quot;notes&quot;&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/h2&gt;
 
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Breakfast&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Lunch&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Dinner&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-| Breakfast |   Lunch   |   Dinner  |
-|   :---:   |   :---:   |   :---:   |
-|           |           |           |
+&lt;h2 id=&quot;-tomorrow-&quot;&gt;[ Tomorrow ]&lt;/h2&gt;
 
-## [ Tomorrow ]
+&lt;hr /&gt;
+&lt;h2 id=&quot;on-going-tasks&quot;&gt;On-Going Tasks&lt;/h2&gt;
+&lt;h4 id=&quot;general&quot;&gt;General&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Get a haircut&lt;/li&gt;
+  &lt;li&gt;Laundry: Clothing&lt;/li&gt;
+  &lt;li&gt;Laundry: Sheets &amp;amp; Towels&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;h4 id=&quot;math-1zb3---mcmaster&quot;&gt;MATH 1ZB3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Math Assignment 1 Review&lt;/li&gt;
+  &lt;li&gt;Math Assignment 2&lt;/li&gt;
+&lt;/ul&gt;
 
----
-## On-Going Tasks
-#### General
-- Get a haircut
-- Laundry: Clothing
-- Laundry: Sheets &amp; Towels
+&lt;h4 id=&quot;cs-2me3---mcmaster&quot;&gt;CS 2ME3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)&lt;/li&gt;
+  &lt;li&gt;CS 2ME3 Learning Log (Before Sunday)&lt;/li&gt;
+&lt;/ul&gt;
 
-#### MATH 1ZB3 - McMaster
-- Math Assignment 1 Review
-- Math Assignment 2
+&lt;h4 id=&quot;cs-2fa3---mcmaster&quot;&gt;CS 2FA3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Review of Lecture Slides&lt;/li&gt;
+  &lt;li&gt;Assignment 1 (Not Yet Available - Posted by EOW)&lt;/li&gt;
+&lt;/ul&gt;
 
-#### CS 2ME3 - McMaster
-- CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)
-- CS 2ME3 Learning Log (Before Sunday)
+&lt;h4 id=&quot;antrho-2hh3---mcmaster&quot;&gt;ANTRHO 2HH3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Email Stringy about absence (Before Jan 22)&lt;/li&gt;
+&lt;/ul&gt;
 
-#### CS 2FA3 - McMaster
-- Review of Lecture Slides
-- Assignment 1 (Not Yet Available - Posted by EOW)
+&lt;h4 id=&quot;commerce-3fa3&quot;&gt;COMMERCE 3FA3&lt;/h4&gt;
+&lt;p&gt;None&lt;/p&gt;
 
-#### ANTRHO 2HH3 - McMaster
-- Email Stringy about absence (Before Jan 22)
+&lt;h4 id=&quot;comp-272---athabasca&quot;&gt;COMP 272 - Athabasca&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;COMP 272 Assignment 1&lt;/li&gt;
+  &lt;li&gt;COMP 272 Assignment 2&lt;/li&gt;
+  &lt;li&gt;COMP 272 Assignment 3&lt;/li&gt;
+  &lt;li&gt;COMP 272 Final Exam&lt;/li&gt;
+&lt;/ul&gt;
 
-#### COMMERCE 3FA3
-None
+&lt;h4 id=&quot;math-309---athabasca&quot;&gt;MATH 309 - Athabasca&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;MATH 309 Assignment 1&lt;/li&gt;
+  &lt;li&gt;MATH 309 Assignment 2&lt;/li&gt;
+  &lt;li&gt;MATH 309 Midterm&lt;/li&gt;
+  &lt;li&gt;MATH 309 Assignment 3&lt;/li&gt;
+  &lt;li&gt;MATH 309 Final Exam&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">The Daily Log Jan 17, 2020</summary></entry><entry><title type="html">The Daily Log - Jan 16, 2020</title><link href="http://berriault.com/blog/tdl/2020/01/16/The-Daily-Log.html" rel="alternate" type="text/html" title="The Daily Log - Jan 16, 2020" /><published>2020-01-16T00:00:00-05:00</published><updated>2020-01-16T00:00:00-05:00</updated><id>http://berriault.com/blog/tdl/2020/01/16/The-Daily-Log</id><content type="html" xml:base="http://berriault.com/blog/tdl/2020/01/16/The-Daily-Log.html">&lt;h1 id=&quot;the-daily-log&quot;&gt;The Daily Log&lt;/h1&gt;
+&lt;h6 id=&quot;jan-16-2020&quot;&gt;Jan 16, 2020&lt;/h6&gt;
+&lt;hr /&gt;
 
-#### COMP 272 - Athabasca
-- COMP 272 Assignment 1
-- COMP 272 Assignment 2
-- COMP 272 Assignment 3
-- COMP 272 Final Exam
+&lt;h2 id=&quot;todays-tasks&quot;&gt;Today’s Tasks&lt;/h2&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;10 Pushups&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;The List - &lt;em&gt;Started&lt;/em&gt;&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Write Something - &lt;em&gt;The Daily Log&lt;/em&gt;&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Finance Ch. 14 Reading + Notes - &lt;em&gt;Started/Not Complete&lt;/em&gt;&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Finance Quiz 1&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Finance Ch. 16 Reading + Notes&lt;/li&gt;
+&lt;/ul&gt;
 
-#### MATH 309 - Athabasca
-- MATH 309 Assignment 1
-- MATH 309 Assignment 2
-- MATH 309 Midterm
-- MATH 309 Assignment 3
-- MATH 309 Final Exam</content><author><name></name></author><summary type="html">The Daily Log Jan 17, 2020</summary></entry><entry><title type="html">The Daily Log - Jan 16, 2020</title><link href="http://localhost:4000/blog/tdl/2020/01/16/The-Daily-Log.html" rel="alternate" type="text/html" title="The Daily Log - Jan 16, 2020" /><published>2020-01-16T00:00:00-05:00</published><updated>2020-01-16T00:00:00-05:00</updated><id>http://localhost:4000/blog/tdl/2020/01/16/The-Daily-Log</id><content type="html" xml:base="http://localhost:4000/blog/tdl/2020/01/16/The-Daily-Log.html"># The Daily Log
-###### Jan 16, 2020
----
+&lt;h2 id=&quot;notes&quot;&gt;&lt;em&gt;Notes&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Woke up at 0700. Took meds at 0815. Began tasks at 1130.&lt;/p&gt;
 
-## Today's Tasks
-- [x] 10 Pushups
-- [x] The List - *Started* 
-- [x] Write Something - *The Daily Log*
-- [x] Finance Ch. 14 Reading + Notes - *Started/Not Complete*
-- [ ] Finance Quiz 1
-- [ ] Finance Ch. 16 Reading + Notes
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Breakfast&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Lunch&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Dinner&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✓&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;x&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-## *Notes*
-Woke up at 0700. Took meds at 0815. Began tasks at 1130. 
+&lt;h2 id=&quot;-tomorrow-&quot;&gt;[ Tomorrow ]&lt;/h2&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Landry: Clothing&lt;/li&gt;
+&lt;/ul&gt;
 
-| Breakfast |   Lunch   |   Dinner  |
-|   :---:   |   :---:   |   :---:   |
-|     x     |     ✓     |     x     |
+&lt;hr /&gt;
+&lt;h2 id=&quot;on-going-tasks&quot;&gt;On-Going Tasks&lt;/h2&gt;
+&lt;h4 id=&quot;general&quot;&gt;General&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Get a haircut&lt;/li&gt;
+  &lt;li&gt;Laundry: Clothing&lt;/li&gt;
+  &lt;li&gt;Laundry: Sheets &amp;amp; Towels&lt;/li&gt;
+&lt;/ul&gt;
 
-## [ Tomorrow ]
-- [ ] CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)
-- [ ] Landry: Clothing
+&lt;h4 id=&quot;math-1zb3---mcmaster&quot;&gt;MATH 1ZB3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Math Assignment 1 Review&lt;/li&gt;
+  &lt;li&gt;Math Assignment 2&lt;/li&gt;
+&lt;/ul&gt;
 
----
-## On-Going Tasks
-#### General
-- Get a haircut
-- Laundry: Clothing
-- Laundry: Sheets &amp; Towels
+&lt;h4 id=&quot;cs-2me3---mcmaster&quot;&gt;CS 2ME3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)&lt;/li&gt;
+  &lt;li&gt;CS 2ME3 Learning Log (Before Sunday)&lt;/li&gt;
+&lt;/ul&gt;
 
-#### MATH 1ZB3 - McMaster
-- Math Assignment 1 Review
-- Math Assignment 2
+&lt;h4 id=&quot;cs-2fa3---mcmaster&quot;&gt;CS 2FA3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Review of Lecture Slides&lt;/li&gt;
+  &lt;li&gt;Assignment 1 (Not Yet Available - Posted by EOW)&lt;/li&gt;
+&lt;/ul&gt;
 
-#### CS 2ME3 - McMaster
-- CS 2ME3 Assignment 1 Part 1 (Mon Jan 20 @2359)
-- CS 2ME3 Learning Log (Before Sunday)
+&lt;h4 id=&quot;antrho-2hh3---mcmaster&quot;&gt;ANTRHO 2HH3 - McMaster&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Email Stringy about absence (Before Jan 22)&lt;/li&gt;
+&lt;/ul&gt;
 
-#### CS 2FA3 - McMaster
-- Review of Lecture Slides
-- Assignment 1 (Not Yet Available - Posted by EOW)
+&lt;h4 id=&quot;commerce-3fa3&quot;&gt;COMMERCE 3FA3&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Quiz 1 (Mon Jan 20 @1430)&lt;/li&gt;
+&lt;/ul&gt;
 
-#### ANTRHO 2HH3 - McMaster
-- Email Stringy about absence (Before Jan 22)
+&lt;h4 id=&quot;comp-272---athabasca&quot;&gt;COMP 272 - Athabasca&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;COMP 272 Assignment 1&lt;/li&gt;
+  &lt;li&gt;COMP 272 Assignment 2&lt;/li&gt;
+  &lt;li&gt;COMP 272 Assignment 3&lt;/li&gt;
+  &lt;li&gt;COMP 272 Final Exam&lt;/li&gt;
+&lt;/ul&gt;
 
-#### COMMERCE 3FA3
-- Quiz 1 (Mon Jan 20 @1430)
+&lt;h4 id=&quot;math-309---athabasca&quot;&gt;MATH 309 - Athabasca&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;MATH 309 Assignment 1&lt;/li&gt;
+  &lt;li&gt;MATH 309 Assignment 2&lt;/li&gt;
+  &lt;li&gt;MATH 309 Midterm&lt;/li&gt;
+  &lt;li&gt;MATH 309 Assignment 3&lt;/li&gt;
+  &lt;li&gt;MATH 309 Final Exam&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">The Daily Log Jan 16, 2020</summary></entry><entry><title type="html">The List</title><link href="http://berriault.com/2020/01/16/The-List.html" rel="alternate" type="text/html" title="The List" /><published>2020-01-16T00:00:00-05:00</published><updated>2020-01-16T00:00:00-05:00</updated><id>http://berriault.com/2020/01/16/The-List</id><content type="html" xml:base="http://berriault.com/2020/01/16/The-List.html">&lt;h1 id=&quot;the-list&quot;&gt;The List&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;The List is a reminder of all the things that I have completed and accomplished in life. Often it can be easy to remember all the times that you messed up, the times that you were embarrassed, or the times that you felt that you failed. But often these failures were learning opportunities that lead to new success and accomplishments. Remembering your success and how you got there is important for your long term growth and humility. Understanding that you didn’t just wake up like this can go a long way for your empathy of others and yourself during hardship. It is my belief that people are defined by their adversity and their ability to perform regardless of situation.&lt;/p&gt;
 
-#### COMP 272 - Athabasca
-- COMP 272 Assignment 1
-- COMP 272 Assignment 2
-- COMP 272 Assignment 3
-- COMP 272 Final Exam
+&lt;p&gt;Everyone experiences difficulty and while some are empirically more intense than others, it is difficult to fully understand the situation of someone other than yourself. While this means you should be understanding of others, it does not mean that everyone gets a free pass. This includes yourself. You are the only one who can understand your hardship and your success fully. This means that you must hold yourself to a higher standard.&lt;/p&gt;
 
-#### MATH 309 - Athabasca
-- MATH 309 Assignment 1
-- MATH 309 Assignment 2
-- MATH 309 Midterm
-- MATH 309 Assignment 3
-- MATH 309 Final Exam</content><author><name></name></author><summary type="html">The Daily Log Jan 16, 2020</summary></entry><entry><title type="html">The List</title><link href="http://localhost:4000/2020/01/16/The-List.html" rel="alternate" type="text/html" title="The List" /><published>2020-01-16T00:00:00-05:00</published><updated>2020-01-16T00:00:00-05:00</updated><id>http://localhost:4000/2020/01/16/The-List</id><content type="html" xml:base="http://localhost:4000/2020/01/16/The-List.html"># The List
----
-The List is a reminder of all the things that I have completed and accomplished in life. Often it can be easy to remember all the times that you messed up, the times that you were embarrassed, or the times that you felt that you failed. But often these failures were learning opportunities that lead to new success and accomplishments. Remembering your success and how you got there is important for your long term growth and humility. Understanding that you didn't just wake up like this can go a long way for your empathy of others and yourself during hardship. It is my belief that people are defined by their adversity and their ability to perform regardless of situation.
+&lt;p&gt;&lt;em&gt;This list includes anything I feel is not a common experience&lt;/em&gt;&lt;/p&gt;
 
-Everyone experiences difficulty and while some are empirically more intense than others, it is difficult to fully understand the situation of someone other than yourself. While this means you should be understanding of others, it does not mean that everyone gets a free pass. This includes yourself. You are the only one who can understand your hardship and your success fully. This means that you must hold yourself to a higher standard. 
+&lt;p&gt;– ABQ&lt;/p&gt;
 
-*This list includes anything I feel is not a common experience*
+&lt;hr /&gt;
+&lt;h4 id=&quot;this-needs-review&quot;&gt;&lt;strong&gt;&lt;em&gt;This needs review&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
 
-– ABQ
+&lt;h2 id=&quot;educational-experiences&quot;&gt;Educational Experiences&lt;/h2&gt;
+&lt;h3 id=&quot;elementary&quot;&gt;Elementary&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Attended 2009 CWSF for Snobike&lt;/li&gt;
+  &lt;li&gt;Lead role in Gr. 7 Play&lt;/li&gt;
+&lt;/ul&gt;
 
----
-#### ***This needs review***
----
+&lt;h3 id=&quot;secondary&quot;&gt;Secondary&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Created side-scroller mario in &lt;em&gt;Java - Lost the code :(&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-## Educational Experiences
-### Elementary
-- Attended 2009 CWSF for Snobike
-- Lead role in Gr. 7 Play
+&lt;h3 id=&quot;post-secondary&quot;&gt;Post-Secondary&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Created a hiring website with &lt;em&gt;Google Apps Script&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-### Secondary
-- Created side-scroller mario in *Java - Lost the code :(*
+&lt;h3 id=&quot;personal-learning&quot;&gt;Personal Learning&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Currently learning about Project Management (CAPM Certification)&lt;/li&gt;
+  &lt;li&gt;Currently learning about Web Development (The Web Dev Bootcamp)&lt;/li&gt;
+&lt;/ul&gt;
 
-### Post-Secondary
-- Created a hiring website with *Google Apps Script*
+&lt;h2 id=&quot;professional-experiences&quot;&gt;Professional Experiences&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Work for my Dad&lt;/li&gt;
+  &lt;li&gt;Work at Blue Mountain&lt;/li&gt;
+  &lt;li&gt;Work at Kelsey’s&lt;/li&gt;
+  &lt;li&gt;Work at OslerBrook G&amp;amp;CC&lt;/li&gt;
+  &lt;li&gt;Work at Cranberry Golf Course&lt;/li&gt;
+  &lt;li&gt;Work at SportChek&lt;/li&gt;
+  &lt;li&gt;Work in Warehouse&lt;/li&gt;
+  &lt;li&gt;Work for Pepsico (2 weeks)&lt;/li&gt;
+  &lt;li&gt;Work for McMaster Eng 1 Office&lt;/li&gt;
+  &lt;li&gt;Work for Epson Marketing&lt;/li&gt;
+  &lt;li&gt;Work for Venture Camp&lt;/li&gt;
+  &lt;li&gt;Work for McMaster Eng Youth Programs&lt;/li&gt;
+&lt;/ul&gt;
 
-### Personal Learning
-- Currently learning about Project Management (CAPM Certification)
-- Currently learning about Web Development (The Web Dev Bootcamp)
+&lt;h3 id=&quot;entrepreneurship&quot;&gt;Entrepreneurship&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;iPhone Repair Business&lt;/li&gt;
+  &lt;li&gt;McMaster Poster Business (Fail!)&lt;/li&gt;
+  &lt;li&gt;Project Vela (Successful Fail)&lt;/li&gt;
+&lt;/ul&gt;
 
-## Professional Experiences
-- Work for my Dad
-- Work at Blue Mountain
-- Work at Kelsey's
-- Work at OslerBrook G&amp;CC
-- Work at Cranberry Golf Course
-- Work at SportChek
-- Work in Warehouse
-- Work for Pepsico (2 weeks)
-- Work for McMaster Eng 1 Office
-- Work for Epson Marketing
-- Work for Venture Camp
-- Work for McMaster Eng Youth Programs
+&lt;h2 id=&quot;creative-experiences&quot;&gt;Creative Experiences&lt;/h2&gt;
+&lt;h3 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;McMaster Poster Business products (10+ full poster designs)&lt;/li&gt;
+  &lt;li&gt;ThatGeekTech Logo / Business Cards (Brutally bad)&lt;/li&gt;
+  &lt;li&gt;Campus Supply Co. Logo / Business Materials (Better)&lt;/li&gt;
+&lt;/ul&gt;
 
-### Entrepreneurship
-- iPhone Repair Business
-- McMaster Poster Business (Fail!)
-- Project Vela (Successful Fail)  
+&lt;h3 id=&quot;multimedia&quot;&gt;Multimedia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gr. 9 Geo green screen tablecloth&lt;/li&gt;
+  &lt;li&gt;Gr. 10/11 Urban Shakespeare recreation&lt;/li&gt;
+  &lt;li&gt;The Victory Lap Vlog&lt;/li&gt;
+  &lt;li&gt;Venture Staff Sunday / “What if” Wednesday&lt;/li&gt;
+&lt;/ul&gt;
 
-## Creative Experiences
-### Visual Design
-- McMaster Poster Business products (10+ full poster designs)
-- ThatGeekTech Logo / Business Cards (Brutally bad)
-- Campus Supply Co. Logo / Business Materials (Better) 
+&lt;h3 id=&quot;story-telling&quot;&gt;Story Telling&lt;/h3&gt;
 
-### Multimedia 
-- Gr. 9 Geo green screen tablecloth
-- Gr. 10/11 Urban Shakespeare recreation
-- The Victory Lap Vlog
-- Venture Staff Sunday / &quot;What if&quot; Wednesday
+&lt;h3 id=&quot;physical-design&quot;&gt;Physical Design&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tree House design booklet&lt;/li&gt;
+  &lt;li&gt;Design and built a desk from an old door&lt;/li&gt;
+&lt;/ul&gt;
 
-### Story Telling
+&lt;h2 id=&quot;personal-experiences&quot;&gt;Personal Experiences&lt;/h2&gt;
+&lt;h3 id=&quot;hardship--adversity&quot;&gt;Hardship &amp;amp; Adversity&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Getting my ass kicked in 10 years of hockey (?? - 150+ - ?)&lt;/li&gt;
+  &lt;li&gt;Panic Attacks -&amp;gt; Diagnosis with GAD&lt;/li&gt;
+  &lt;li&gt;Potential ADHD diagnosis (2020)&lt;/li&gt;
+  &lt;li&gt;Many university failures&lt;/li&gt;
+  &lt;li&gt;Academic Probation&lt;/li&gt;
+  &lt;li&gt;OSAP Probation -&amp;gt; OSAP Restriction&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;h3 id=&quot;success-stories&quot;&gt;Success Stories&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-### Physical Design
-- Tree House design booklet
-- Design and built a desk from an old door
+&lt;h3 id=&quot;moments-of-understanding&quot;&gt;Moments of Understanding&lt;/h3&gt;
 
-## Personal Experiences
-### Hardship &amp; Adversity
-- Getting my ass kicked in 10 years of hockey (?? - 150+ - ?)
-- Panic Attacks -&gt; Diagnosis with GAD
-- Potential ADHD diagnosis (2020)
-- Many university failures
-- Academic Probation
-- OSAP Probation -&gt; OSAP Restriction
+&lt;h3 id=&quot;empathetic-learning&quot;&gt;Empathetic Learning&lt;/h3&gt;</content><author><name></name></author><summary type="html">The List The List is a reminder of all the things that I have completed and accomplished in life. Often it can be easy to remember all the times that you messed up, the times that you were embarrassed, or the times that you felt that you failed. But often these failures were learning opportunities that lead to new success and accomplishments. Remembering your success and how you got there is important for your long term growth and humility. Understanding that you didn’t just wake up like this can go a long way for your empathy of others and yourself during hardship. It is my belief that people are defined by their adversity and their ability to perform regardless of situation.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://berriault.com/jekyll/update/2019/10/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-10-20T20:57:44-04:00</published><updated>2019-10-20T20:57:44-04:00</updated><id>http://berriault.com/jekyll/update/2019/10/20/welcome-to-jekyll</id><content type="html" xml:base="http://berriault.com/jekyll/update/2019/10/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-### Success Stories
-- 
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
-### Moments of Understanding
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
 
-### Empathetic Learning</content><author><name></name></author><summary type="html">The List The List is a reminder of all the things that I have completed and accomplished in life. Often it can be easy to remember all the times that you messed up, the times that you were embarrassed, or the times that you felt that you failed. But often these failures were learning opportunities that lead to new success and accomplishments. Remembering your success and how you got there is important for your long term growth and humility. Understanding that you didn’t just wake up like this can go a long way for your empathy of others and yourself during hardship. It is my belief that people are defined by their adversity and their ability to perform regardless of situation.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/10/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-10-20T20:57:44-04:00</published><updated>2019-10-20T20:57:44-04:00</updated><id>http://localhost:4000/jekyll/update/2019/10/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/10/20/welcome-to-jekyll.html">You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-Jekyll requires blog post files to be named according to the following format:
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-`YEAR-MONTH-DAY-title.MARKUP`
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts &quot;Hi, #{name}&quot;
-end
-print_hi('Tom')
-#=&gt; prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
