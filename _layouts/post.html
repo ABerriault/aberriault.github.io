@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body class="bg-light text-dark">
+<body class="bg-light text-dark m-0 p-0">
     <div class="container-fluid">
 
         {% include navbar.html %}
@@ -11,9 +11,9 @@
         <div id="post" class="row justify-content-around align-items-start p-3">
             <div id="postBlock" class="col-md-4 float-left text-center">
                 <img class="img-fluid rounded-circle w-75" src="/assets/images/base/Andrew-Berriault-3837.jpg" alt="Andrew Berriault">
-                <h1 class="text-primary m-5 border-top border-bottom border-primary">{{ page.title }}</h1>
-                <p id="postAuthor" class="text-neutral lead">Written by <a href="{{ page.author-link }}">{{ page.author }}</a></p>
-                <p id="postDate" class="text-neutral"> {{ page.date | date: "%A %b %-d, %Y  (%R %Z)"}} </p>
+                <h1 class="text-primary m-4 border-top border-bottom border-primary">{{ page.title }}</h1>
+                <p id="postAuthor" class="text-neutral mx-4 lead">Written by <a href="{{ page.author-link }}">{{ page.author }}</a></p>
+                <p id="postDate" class="text-neutral mx-4"> {{ page.date | date: "%A %b %-d, %Y  (%R %Z)"}} </p>
             </div>
 
             <section id="postContent" class="col-md-7">

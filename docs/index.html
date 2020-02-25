@@ -8,7 +8,6 @@
     
     <!-- Custom CSS -->
     <link href="/assets/css/main.css" rel="stylesheet">
-    <link href="/assets/css/sticky-footer.css" rel="stylesheet">
 
     <!-- Font Links -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,500|Raleway:100,200,700&display=swap" rel="stylesheet">
@@ -28,29 +27,33 @@
 
   </head>
 
-<body class="bg-light text-dark">
+<body class="bg-light text-dark m-0 p-0">
     <div class="container-fluid">
 
         <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom border-primary mb-4">
+    
     <a class="navbar-brand text-primary" href="/">Andrew Berriault</a>
+    
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
         aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
+    
     <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
         <div class="navbar-nav">
 
-            <a class="nav-item nav-link" href="/resume">Resume</a>
-            <a class="nav-item nav-link" href="https://github.com/aberriault">Projects</a>
-            <a class="nav-item nav-link" href="/blog/web%20development/2020/02/25/The-Blog.html">Posts</a>
+            <a class="nav-item nav-link text-dark" href="/resume">Resume</a>
+            <a class="nav-item nav-link text-dark" href="https://github.com/aberriault">Projects</a>
+            <a class="nav-item nav-link text-dark" href="/blog/web%20development/2020/02/25/The-Blog.html">Posts</a>
 
         </div>
     </div>
 </nav>
 
-        <section class="row justify-content-around align-items-center p-3 text-center">
+        <section id="Welcome" class="row justify-content-around align-items-center p-3 text-center">
             <div class="col-md-4 float-left">
-                <img class="img-fluid rounded-circle w-75" src="/assets/images/base/Andrew-Berriault-3837.jpg" alt="Andrew Berriault">
+                <img class="img-fluid rounded-circle w-75" src="/assets/images/base/Andrew-Berriault-3837.jpg"
+                    alt="Andrew Berriault">
             </div>
             <div class="col-md-7">
                 <section class="">
@@ -64,14 +67,93 @@ hear them, let me know!</p>
             </div>
         </section>
 
-        <section class="row d-flex justify-content-around p-3">
+        <header id="projectsHead" class="row justify-content-center px-3 pt-5 text-primary text-center">
+            <h2 class="h1 border-top border-bottom border-primary">Latest Projects</h2>
+        </header>
+        <section id="Projects" class="row justify-content-center p-3">
+
+            <!-- Project Information Card -->
+            <div class="col-md-4 p-3">
+                <div class="card border-dark text-dark">
+                    
+                    <div class="card-header bg-dark text-light text-center">
+                        <h5 class="card-title m-0">Project Title</h5>
+                    </div>
+
+                    <div class="card-body text-center">
+                        <p class="card-text text-left mx-3">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            Exercitationem nobis sunt a omnis quas accusantium ullam voluptatem in maxime? Quibusdam
+                            ipsam ratione voluptas sint dolor non iure reprehenderit laborum officia provident eius id,
+                            corporis iusto laboriosam doloremque fugiat, hic tempore est. Esse optio temporibus,
+                            mollitia voluptatibus beatae voluptatem molestias. Ex.</p>
+                        <a href="https://github.com/aberriault" class="btn btn-primary">Learn more...</a>
+                    </div>
+
+                    <div class="card-footer text-right small">
+                        <a href="https://github.com/aberriault" class="card-link text-dark">Source Code</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project Information Card -->
+            <div class="col-md-4 p-3">
+                <div class="card border-dark text-dark">
+                    
+                    <div class="card-header bg-dark text-light text-center">
+                        <h5 class="card-title m-0">Project Title 2</h5>
+                    </div>
+
+                    <div class="card-body text-center">
+                        <p class="card-text text-left mx-3">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            Exercitationem nobis sunt a omnis quas accusantium ullam voluptatem in maxime? Quibusdam
+                            ipsam ratione voluptas sint dolor non iure reprehenderit laborum officia provident eius id,
+                            corporis iusto laboriosam doloremque fugiat, hic tempore est. Esse optio temporibus,
+                            mollitia voluptatibus beatae voluptatem molestias. Ex.</p>
+                        <a href="https://github.com/aberriault" class="btn btn-primary">Learn more...</a>
+                    </div>
+
+                    <div class="card-footer text-right small">
+                        <a href="https://github.com/aberriault" class="card-link text-dark">Source Code</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project Information Card -->
+            <div class="col-md-4 p-3">
+                <div class="card border-dark text-dark">
+
+                    <div class="card-header bg-dark text-light text-center">
+                        <h5 class="card-title m-0">Project Title 3</h5>
+                    </div>
+
+                    <div class="card-body text-center">
+                        <p class="card-text text-left mx-3">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                            Exercitationem nobis sunt a omnis quas accusantium ullam voluptatem in maxime? Quibusdam
+                            ipsam ratione voluptas sint dolor non iure reprehenderit laborum officia provident eius id,
+                            corporis iusto laboriosam doloremque fugiat, hic tempore est. Esse optio temporibus,
+                            mollitia voluptatibus beatae voluptatem molestias. Ex.</p>
+                        <a href="https://github.com/aberriault" class="btn btn-primary">Learn more...</a>
+                    </div>
+
+                    <div class="card-footer text-right small">
+                        <a href="https://github.com/aberriault" class="card-link text-dark">Source Code</a>
+                    </div>
+                </div>
+            </div>
+            
+        </section>
+
+        <header id="photosHead" class="row justify-content-center px-3 pt-5 text-primary text-center">
+            <h2 class="h1 border-top border-bottom border-primary">Latest Photos</h2>
+        </header>
+        <section id="Photos" class="row justify-content-center p-3">
             <img class="col-md-3 my-1" src="/assets/images/base/Aloe-3744.jpg" alt="Picture 1" aria-hidden="true">
             <img class="col-md-3 my-1" src="/assets/images/base/Stickers-4065.jpg" alt="Picture 2" aria-hidden="true">
             <img class="col-md-3 my-1" src="/assets/images/base/CNE-3615-2.jpg" alt="Picture 3" aria-hidden="true">
             <img class="col-md-3 my-1" src="/assets/images/base/TicTacTows-3752.jpg" alt="Picture 4" aria-hidden="true">
         </section>
 
-        <footer class="text-center border-top border-dark">
+        <footer class="text-center border-top border-primary">
     <div class="row justify-content-center mt-3">
         <!--Linkedin -->
         <a class="li-ic text-dark" href="http://linkedin.com/in/aberriault">
