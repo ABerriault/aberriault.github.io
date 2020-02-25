@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Daily Log - Jan 17, 2020
+author: Andrew Berriault
+date: 2020-01-17 08:30
 categories: [blog, TDL]
 tags: []
 ---

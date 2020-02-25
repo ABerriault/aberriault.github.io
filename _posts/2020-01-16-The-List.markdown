@@ -1,3 +1,12 @@
+---
+layout: post
+title: The List
+author: Andrew Berriault
+date: 2020-01-16 23:57
+categories: [blog]
+tags: []
+---
+
 # The List
 ---
 The List is a reminder of all the things that I have completed and accomplished in life. Often it can be easy to remember all the times that you messed up, the times that you were embarrassed, or the times that you felt that you failed. But often these failures were learning opportunities that lead to new success and accomplishments. Remembering your success and how you got there is important for your long term growth and humility. Understanding that you didn't just wake up like this can go a long way for your empathy of others and yourself during hardship. It is my belief that people are defined by their adversity and their ability to perform regardless of situation.
