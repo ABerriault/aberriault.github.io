@@ -1,22 +1,22 @@
 ---
 layout: page
 title: Resume
+extra: Thanks for taking a look at my resume. If you have received a previous copy through an application or other means, you will notice that this version is much longer. I aim to cover any possible point of interest here, feel free to CTRL+F (CMD+F) search to find what is important to you! 
+permalink: /resume
 ---
 
-# Resume
-Thanks for taking a look at my resume. If you have received a previous copy through an application or other means, you will notice that this version is much longer. I aim to cover any possible point of interest in the resume below, feel free to CTRL+F (CMD+F) to find what is important to you! 
-
-If you just stumbled upon this, 1. how? 2. ok cool, give it a look and maybe you will learn something interesting to bring up next time we talk.
-
-To save you some time, the structure is:
-- Education
-- Professional Experience
-- Volunteer Experience
-- Certifications
-- Activities (Broken down by year)
+# Jump to section
+<ul>
+    <li><a href="#Education">Education</a></li>
+    <li><a href="#Professional">Professional Experience</a></li>
+    <li><a href="#Volunteer">Volunteer Experience</a></li>
+    <li><a href="#Certifications">Certifications</a></li>
+    <li><a href="#Activities">Activities</a></li>
+</ul>
 
 
-## Education
+<h2 id="Education">Education</h2>
+
 #### McMaster University
 B.A.Sc Business Informatics (Computer Science) | *Apr 2021*
 - Business Informatics is the intersection between computer science and business. The degree offers an array of experiences in Computational Thinking, Software Development, and traditional business knowledge such as Human Resources, Accounting, Finance, and Marketing.
@@ -33,7 +33,8 @@ B.A.Sc Business Informatics (Computer Science) | *Apr 2021*
 - In pursuit of a Certified Associate in Project Management (CAPM) certification from the PMI
 - Enrolled in Project Management Basics online course
 
-## Professional Experience
+<h2 id="Professional">Professional Experience</h2> 
+
 #### Department of Computing and Software - McMaster University
 Undergraduate Student Ambassador | *Sept 2017 - Present*
 - Represent McMaster CS students at University recruiting events
@@ -85,7 +86,7 @@ Rental Technician
 - Assisted with installation of CAT5e cable and network jacks
 - Performed manual labor duties
 
-## Volunteer Experience
+<h2 id="Volunteer">Volunteer Experience</h2> 
 
 #### McMaster Computer Science Society
 Director of Marketing | *Apr 2017 - Present*
@@ -108,14 +109,16 @@ Vice President Finance | *Apr  2016 - Mar 2017*
 
 #### TD STEM Girls Club
 
-## Certifications
+<h2 id="Certifications">Certifications</h2> 
+
 - Standard First Aid C + CPR C 
 - WHMIS
 - Vulnerable Sector Check
 - G License
 - PMI Member
 
-## Activities
+<h2 id="Activities">Activities</h2> 
+
 #### 2020
 - None yet!
 
