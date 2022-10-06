@@ -5,24 +5,11 @@
 
 <body class="bg-light text-dark m-0 p-0">
     <div class="container-fluid">
-
-        {% include navbar.html %}
-
-        <section id="Welcome" class="row justify-content-around align-items-center p-3 text-center">
-            <div class="col-md-4 float-left">
-                <img class="img-fluid rounded-circle w-75" src="/assets/images/base/Andrew-Berriault-3837.jpg"
-                    alt="Andrew Berriault">
-            </div>
-            <div class="col-md-7">
-                <section class="pt-3">
-                    {{ content }}
-                </section>
-            </div>
-        </section>
-
-        {% include footer.html %}
-
+        {{ content }}
     </div>
+
+    {% include footer.html %}
+
 </body>
 
 {% include scripts.html %}
